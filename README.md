@@ -31,4 +31,4 @@
 
 
 ERD
-https://github.com/postwo/cafe/issues/1#issue-2230243855
+![ERD](https://github.com/postwo/cafe/assets/148507889/76e6abf7-d8f4-4fa4-8cda-860d7e03f096)
