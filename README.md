@@ -31,3 +31,4 @@
 
 
 ERD
+https://github.com/postwo/cafe/issues/1#issue-2230243855
